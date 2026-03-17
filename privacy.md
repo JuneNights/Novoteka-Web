@@ -33,4 +33,4 @@ I may update this Privacy Policy from time to time. You are advised to review th
 ## 5. Contact Me
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at:
-**[JuniorSJ@LIVE.COM]**
+**juniorsj@live.com**
