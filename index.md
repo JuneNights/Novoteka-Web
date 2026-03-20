@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./NovotekaLogoTransparent.png" alt="Novoteka Logo" width="150">
+  <img src="./NovotekaLogoTransparent.png" alt="Novoteka Logo" width="200">
 </p>
 
 **The library organization and studio editing tool.**
