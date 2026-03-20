@@ -1,5 +1,3 @@
-# Novoteka
-
 <p align="center">
   <img src="./NovotekaLogoTransparent.png" alt="Novoteka Logo" width="150">
 </p>
