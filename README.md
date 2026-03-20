@@ -1,4 +1,4 @@
-# Novoteka-Web
+# Novoteka
 
 https://junenights.github.io/Novoteka-Web/privacy
 https://junenights.github.io/Novoteka-Web/terms
