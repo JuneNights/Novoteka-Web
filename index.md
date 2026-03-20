@@ -1,5 +1,9 @@
 # Novoteka
 
+<p align="center">
+  <img src="./NovotekaLogoTransparent.png" alt="Novoteka Logo" width="150">
+</p>
+
 **The library organization and studio editing tool.**
 
 Novoteka is an iOS app designed to give you complete control over your media. Manage daily imports, utilize powerful batch editing tools, and organize your files without limits.
